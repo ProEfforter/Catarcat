@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_3000c4b6-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-07-06 00:00:00",
+			"device": "검안경",
+			"gender": 0.0,
+			"age": 7.0,
+			"breed": "웰시코기",
+			"medical_type": 1,
+			"width_height": [
+				"4355",
+				"2903"
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				72.0,
+				72.0
+			]
+		}
+	}
+}

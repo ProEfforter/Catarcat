@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D1_2f443109-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2020-08-17 00:00:00",
+			"device": "검안경",
+			"gender": 1,
+			"age": 12,
+			"breed": "푸들",
+			"medical_type": 1,
+			"width_height": [
+				4355,
+				2903
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	}
+}

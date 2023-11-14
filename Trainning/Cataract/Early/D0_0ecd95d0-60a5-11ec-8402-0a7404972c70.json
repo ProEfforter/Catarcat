@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_0ecd95d0-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-08-19 00:00:00",
+			"device": "일반카메라",
+			"gender": 1.0,
+			"age": 9.0,
+			"breed": "치와와",
+			"medical_type": 1,
+			"width_height": [
+				"4896",
+				"3672"
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				350.0,
+				350.0
+			]
+		}
+	}
+}

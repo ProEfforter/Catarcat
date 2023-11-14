@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_13775c82-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-05-08 00:00:00",
+			"device": "검안경",
+			"gender": 1,
+			"age": 12,
+			"breed": "믹스",
+			"medical_type": 1,
+			"width_height": [
+				5184,
+				3456
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	}
+}

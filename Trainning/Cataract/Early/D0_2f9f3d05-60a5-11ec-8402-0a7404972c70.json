@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_2f9f3d05-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2018-01-19 00:00:00",
+			"device": "검안경",
+			"gender": 0,
+			"age": 8,
+			"breed": "요크셔 테리어",
+			"medical_type": 1,
+			"width_height": [
+				2741,
+				2057
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				96,
+				96
+			]
+		}
+	}
+}

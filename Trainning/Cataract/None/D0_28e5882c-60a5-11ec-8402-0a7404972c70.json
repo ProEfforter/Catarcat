@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_28e5882c-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-08-18 00:00:00",
+			"device": "스마트폰",
+			"gender": 1,
+			"age": 10,
+			"breed": "믹스",
+			"medical_type": 1,
+			"width_height": [
+				4032,
+				3024
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				300,
+				300
+			]
+		}
+	}
+}

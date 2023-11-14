@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_24eecfb4-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-05-09 00:00:00",
+			"device": "스마트폰",
+			"gender": 1,
+			"age": 9,
+			"breed": "재패니즈 스피츠",
+			"medical_type": 1,
+			"width_height": [
+				2448,
+				3264
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	}
+}

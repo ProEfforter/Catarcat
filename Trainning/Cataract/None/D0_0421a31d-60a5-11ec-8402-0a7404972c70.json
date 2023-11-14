@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_0421a31d-60a5-11ec-8402-0a7404972c70.png",
+			"date_time": "2021-04-09 00:00:00",
+			"device": "스마트폰",
+			"gender": 0,
+			"age": 7,
+			"breed": "미니어처 푸들",
+			"medical_type": 1,
+			"width_height": [
+				3024,
+				4032
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	}
+}

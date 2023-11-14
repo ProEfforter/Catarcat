@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_18428da8-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-11-14 00:00:00",
+			"device": "검안경",
+			"gender": 1,
+			"age": 15,
+			"breed": "닥스훈트",
+			"medical_type": 1,
+			"width_height": [
+				720,
+				480
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	}
+}

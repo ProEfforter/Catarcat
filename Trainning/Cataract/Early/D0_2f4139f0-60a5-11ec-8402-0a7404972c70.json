@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_2f4139f0-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2019-10-12 00:00:00",
+			"device": "검안경",
+			"gender": 1.0,
+			"age": 11.0,
+			"breed": "베들링턴 테리어",
+			"medical_type": 1,
+			"width_height": [
+				"4355",
+				"2903"
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72.0,
+				72.0
+			]
+		}
+	}
+}

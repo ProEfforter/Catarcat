@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_267d627e-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-06-11 00:00:00",
+			"device": "스마트폰",
+			"gender": 0,
+			"age": 7,
+			"breed": "말티즈",
+			"medical_type": 1,
+			"width_height": [
+				4128,
+				3096
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	}
+}

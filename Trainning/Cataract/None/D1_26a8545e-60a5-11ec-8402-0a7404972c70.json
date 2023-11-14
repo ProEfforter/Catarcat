@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D1_26a8545e-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-06-19 00:00:00",
+			"device": "스마트폰",
+			"gender": 1,
+			"age": 8,
+			"breed": "잉글리쉬 코커 스파니엘",
+			"medical_type": 1,
+			"width_height": [
+				4000,
+				3000
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	}
+}

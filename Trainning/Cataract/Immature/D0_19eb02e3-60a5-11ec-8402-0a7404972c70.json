@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_19eb02e3-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2015-08-25 00:00:00",
+			"device": "검안경",
+			"gender": 1.0,
+			"age": 11.0,
+			"breed": "푸들",
+			"medical_type": 1,
+			"width_height": [
+				"2816",
+				"2112"
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				72.0,
+				72.0
+			]
+		}
+	}
+}

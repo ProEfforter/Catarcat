@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_126913e1-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2019-06-10 00:00:00",
+			"device": "검안경",
+			"gender": 1,
+			"age": 11,
+			"breed": "코커 스패니얼",
+			"medical_type": 1,
+			"width_height": [
+				2304,
+				1728
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_275932db-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-07-26 00:00:00",
+			"device": "스마트폰",
+			"gender": 0,
+			"age": 5,
+			"breed": "포메라니안",
+			"medical_type": 1,
+			"width_height": [
+				4032,
+				3024
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	}
+}

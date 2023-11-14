@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_2f3b762d-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-09-02 00:00:00",
+			"device": "일반카메라",
+			"gender": 0.0,
+			"age": 7.0,
+			"breed": "포메라니안",
+			"medical_type": 1,
+			"width_height": [
+				"3387",
+				"2541"
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72.0,
+				72.0
+			]
+		}
+	}
+}

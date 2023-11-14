@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_09a8b5d7-60a5-11ec-8402-0a7404972c70.png",
+			"date_time": "2021-08-11 00:00:00",
+			"device": "스마트폰",
+			"gender": 1,
+			"age": 9,
+			"breed": "토이 푸들",
+			"medical_type": 1,
+			"width_height": [
+				4032,
+				3024
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_3032666d-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2017-11-02 00:00:00",
+			"device": "검안경",
+			"gender": 0,
+			"age": 10,
+			"breed": "시츄",
+			"medical_type": 1,
+			"width_height": [
+				1613,
+				1075
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	}
+}

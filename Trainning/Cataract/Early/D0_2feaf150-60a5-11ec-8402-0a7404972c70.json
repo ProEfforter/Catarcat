@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_2feaf150-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-04-24 00:00:00",
+			"device": "검안경",
+			"gender": 0,
+			"age": 7,
+			"breed": "말티즈",
+			"medical_type": 1,
+			"width_height": [
+				4355,
+				2903
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	}
+}

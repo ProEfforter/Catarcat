@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_28ae817c-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-08-16 00:00:00",
+			"device": "스마트폰",
+			"gender": 0,
+			"age": 1,
+			"breed": "펨브록 웰시 코기",
+			"medical_type": 1,
+			"width_height": [
+				4032,
+				3024
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				300,
+				300
+			]
+		}
+	}
+}

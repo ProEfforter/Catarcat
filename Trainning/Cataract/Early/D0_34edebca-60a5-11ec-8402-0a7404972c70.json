@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_34edebca-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-03-13 00:00:00",
+			"device": "검안경",
+			"gender": 0,
+			"age": 12,
+			"breed": "슈나우저",
+			"medical_type": 1,
+			"width_height": [
+				4355,
+				2903
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	}
+}

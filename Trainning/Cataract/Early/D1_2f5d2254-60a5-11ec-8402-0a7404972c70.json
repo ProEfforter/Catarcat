@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D1_2f5d2254-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2021-08-28 00:00:00",
+			"device": "검안경",
+			"gender": 1.0,
+			"age": 11.0,
+			"breed": "비숑 프리제",
+			"medical_type": 1,
+			"width_height": [
+				"2741",
+				"2057"
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				96.0,
+				96.0
+			]
+		}
+	}
+}

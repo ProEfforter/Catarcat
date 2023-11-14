@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_30128c4e-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2019-11-01 00:00:00",
+			"device": "검안경",
+			"gender": 1,
+			"age": 13,
+			"breed": "페키니즈",
+			"medical_type": 1,
+			"width_height": [
+				4355,
+				2903
+			],
+			"eye_position": "왼쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	}
+}

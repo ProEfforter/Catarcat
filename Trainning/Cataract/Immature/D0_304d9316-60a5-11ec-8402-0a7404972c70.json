@@ -1,0 +1,22 @@
+{
+	"images": {
+		"meta": {
+			"file_name": "D0_304d9316-60a5-11ec-8402-0a7404972c70.jpg",
+			"date_time": "2015-09-23 00:00:00",
+			"device": "검안경",
+			"gender": 0,
+			"age": 7,
+			"breed": "슈나우저",
+			"medical_type": 1,
+			"width_height": [
+				2365,
+				1775
+			],
+			"eye_position": "오른쪽눈",
+			"image_resolution": [
+				72,
+				72
+			]
+		}
+	}
+}
